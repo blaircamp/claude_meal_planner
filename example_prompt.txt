@@ -1,0 +1,93 @@
+I need an advanced, personalized meal plan using the complete enhanced system capabilities:
+
+NUTRITIONAL TARGETS:
+- 2,200 calories daily
+- 185g protein (for muscle building)
+- 280g carbs (active lifestyle)
+- 90g fat (hormone optimization)
+
+DIETARY RESTRICTIONS & HEALTH GOALS:
+- Gluten-free (celiac disease)
+- Dairy-free (lactose intolerance)
+- Tree nut allergy (severe - avoid all tree nuts and cross-contamination)
+- Anti-inflammatory focus (omega-3 rich foods preferred)
+- Whole foods only (no processed ingredients)
+- Low FODMAP friendly where possible
+
+LIFESTYLE & PREFERENCES:
+- 6 recipes total: 3 main meals + 2 snacks + 1 flexible meal/smoothie
+- Workout schedule: 6am strength training (Mon/Wed/Fri), 7am cardio (Tue/Thu)
+- Cooking skill: Intermediate (comfortable with most techniques)
+- Time constraints: Max 45 minutes weekdays, up to 90 minutes weekends
+- Family context: Cooking for 2 adults, need to scale appropriately
+- Budget: Moderate ($150-200/week grocery budget)
+
+PERSONAL PREFERENCES (for learning/adaptation):
+- Protein preferences: Love chicken and fish, neutral on beef, dislike organ meats
+- Cuisine preferences: Mediterranean, Asian fusion, some Mexican
+- Texture preferences: Enjoy variety, dislike mushy textures
+- Flavor preferences: Moderate spice level, enjoy umami, avoid overly sweet
+- Seasonal: Currently winter - prefer warming, comfort foods
+- Cooking style: Enjoy batch cooking, meal prep, one-pan meals
+
+COMPLEX REQUIREMENTS:
+- Pre-workout nutrition: Need easily digestible carbs 1 hour before 6am workouts
+- Post-workout nutrition: High protein + carbs within 30 minutes after training
+- Evening meals: Higher fat, lower carbs for better sleep (no workout days)
+- Weekend variety: More complex/interesting recipes when I have time
+- Leftover optimization: Efficiently use ingredients across multiple recipes
+
+CONSTRAINT CHALLENGES (test the conflict resolver):
+- Need high protein but allergic to major protein sources (nuts)
+- Want anti-inflammatory foods but also muscle-building macros
+- Need quick prep but also want variety and complexity
+- Budget constraints vs quality whole food requirements
+- Family-friendly but specialized dietary restrictions
+
+ADVANCED ORCHESTRATION REQUEST:
+Please use the meal-plan-orchestrator to coordinate the FULL enhanced workflow:
+
+PHASE 0 - INTELLIGENT PRE-PLANNING:
+1. User preference analysis and learning initialization
+2. Constraint feasibility validation and conflict resolution
+3. Advanced macro optimization with workout timing integration
+4. Comprehensive dietary restriction analysis with substitution intelligence
+
+PHASE 1 - PERSONALIZED RECIPE DEVELOPMENT:
+5. Generate 6 recipes with preference integration and macro precision
+6. Multi-dimensional validation (taste, nutrition, feasibility, compliance)
+7. Iterative refinement based on validation feedback
+8. Recipe optimization with advanced mathematical algorithms
+
+PHASE 2 - PRACTICAL IMPLEMENTATION:
+9. Sophisticated portion optimization for exact macro targets
+10. Advanced batch cooking plan with time/resource optimization
+11. Comprehensive quality assurance review
+12. Final meal plan formatting with implementation guide
+
+LEARNING INTEGRATION:
+- Initialize preference profile based on stated preferences
+- Set up feedback mechanisms for future meal plan improvements
+- Document baseline preferences for system learning
+
+SUCCESS METRICS:
+- Macro accuracy within 1% of targets
+- All dietary restrictions perfectly satisfied
+- Workout nutrition timing optimized
+- Practical implementation feasible for stated lifestyle
+- Budget constraints respected
+- Family scaling requirements met
+- Preference integration demonstrable in recipe selection
+
+EXPECTED SOPHISTICATION:
+This should demonstrate the full power of the enhanced system including:
+- Advanced constraint resolution when requirements seem impossible
+- Mathematical optimization for precise macro targeting
+- Intelligent personalization based on preferences
+- Robust error handling if any conflicts arise
+- Production-quality meal plan with professional documentation
+
+SPECIAL CHALLENGE:
+If the system detects any impossible constraint combinations (which is likely given the complexity), I want to see the constraint-conflict-resolver in action, providing clear alternatives and trade-offs while maintaining as many requirements as possible.
+
+Make this a showcase of the complete enhanced meal planning system capabilities!
